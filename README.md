@@ -1,6 +1,6 @@
 # Distributed Systems Casino
 
-A distributed casino application built using the MapReduce Framework, designed to execute computations across multiple machines. The project demonstrates core distributed systems concepts such as task distribution, parallel processing, inter-node communication, and result aggregation. The system distributes workloads among multiple worker nodes, enabling parallel execution and improved scalability compared to a traditional centralized approach. This project was developed as part of a Distributed Systems course on 6th Semester
+A distributed casino application built using the MapReduce Framework, designed to execute computations across multiple machines. The project demonstrates core distributed systems concepts such as task distribution, parallel processing, inter-node communication, and result aggregation. The system distributes workloads among multiple worker nodes, enabling parallel execution and improved scalability compared to a traditional centralized approach. This project was developed as part of a Distributed Systems course on 6th Semester.
 
 ## Key Features
 
